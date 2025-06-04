@@ -1,0 +1,28 @@
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.exe
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\refint\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Часть 1\obj\Debug\net9.0\ref\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.exe
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\bin\Debug\net9.0\№2 Аип 13.02 Часть 1.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\refint\№2 Аип 13.02 Часть 1.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\№2 Аип 13.02 Часть 1.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№2 Аип 13.02 Периметр\obj\Debug\net9.0\ref\№2 Аип 13.02 Часть 1.dll
