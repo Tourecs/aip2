@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\bin\Debug\net9.0\№5 Аип 10.03 Тел и операторы.exe
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\bin\Debug\net9.0\№5 Аип 10.03 Тел и операторы.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\bin\Debug\net9.0\№5 Аип 10.03 Тел и операторы.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\bin\Debug\net9.0\№5 Аип 10.03 Тел и операторы.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\bin\Debug\net9.0\№5 Аип 10.03 Тел и операторы.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\refint\№5 Аип 10.03 Тел и операторы.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\№5 Аип 10.03 Тел и операторы.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№5 Аип 10.03 Тел и операторы\obj\Debug\net9.0\ref\№5 Аип 10.03 Тел и операторы.dll
