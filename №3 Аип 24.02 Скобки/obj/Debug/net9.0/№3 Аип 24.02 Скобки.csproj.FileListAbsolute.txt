@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\bin\Debug\net9.0\№3 Аип 24.02 Скобки.exe
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\bin\Debug\net9.0\№3 Аип 24.02 Скобки.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\bin\Debug\net9.0\№3 Аип 24.02 Скобки.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\bin\Debug\net9.0\№3 Аип 24.02 Скобки.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\bin\Debug\net9.0\№3 Аип 24.02 Скобки.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\refint\№3 Аип 24.02 Скобки.dll
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\№3 Аип 24.02 Скобки.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\АИП 2 Сем\№3 Аип 24.02 Скобки\obj\Debug\net9.0\ref\№3 Аип 24.02 Скобки.dll
