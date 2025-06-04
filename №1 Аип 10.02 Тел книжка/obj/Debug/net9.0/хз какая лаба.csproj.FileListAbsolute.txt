@@ -1,0 +1,14 @@
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\bin\Debug\net9.0\хз какая лаба.exe
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\bin\Debug\net9.0\хз какая лаба.deps.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\bin\Debug\net9.0\хз какая лаба.runtimeconfig.json
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\bin\Debug\net9.0\хз какая лаба.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\bin\Debug\net9.0\хз какая лаба.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.AssemblyInfoInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.AssemblyInfo.cs
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.csproj.CoreCompileInputs.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\refint\хз какая лаба.dll
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.pdb
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\хз какая лаба.genruntimeconfig.cache
+C:\Users\sverl\OneDrive\Рабочий стол\Лабы 2 Сем\хз какая лаба\obj\Debug\net9.0\ref\хз какая лаба.dll
